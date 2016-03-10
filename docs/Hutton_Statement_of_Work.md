@@ -2,7 +2,7 @@
 
 ## Food-Energy-Water Systems in Mountainous Coastal Watersheds: Examining historical trajectories and the influence of human decisions
 
-### PI: Eric W. H. Hutton, Institute of Arctic and Alpine Research, University of Colorado
+### Senior Personnel: Eric W. H. Hutton, Institute of Arctic and Alpine Research, University of Colorado
 
 Dr. Hutton is a senior personnel on the proposed grant to the National Science
 Foundation, *Food-Energy-Water Systems in Mountainous Coastal Watersheds:
