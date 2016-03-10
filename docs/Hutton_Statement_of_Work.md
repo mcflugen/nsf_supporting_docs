@@ -4,48 +4,52 @@
 
 ### PI: Eric W. H. Hutton, Institute of Arctic and Alpine Research, University of Colorado
 
-Dr. Hutton is an investigator on the proposed grant to the National Science
-Foundation, Climate Change in a Coupled Geomorphic-Economic Coastal System.
+Dr. Hutton is a senior personnel on the proposed grant to the National Science
+Foundation, *Food-Energy-Water Systems in Mountainous Coastal Watersheds:
+Examining historical trajectories and the influence of human decisions*.
 NSF requires that funding for collaborating institutions be executed through
-a sub award under the Dynamics of Coupled Natural and Human Systems program.
+a sub award under the Innovations at the Nexus of Food, Energy and Water
+Systems program.
 
 The University of Colorado will participate in the model development and
 coupling aspects of the proposed project.
 
-Over the course of the 4-year project PI Eric Hutton will supervise the
+Over the course of the 4-year project Eric Hutton will supervise the
 coding work required to allow two (or more) models to dynamically exchange
 information during their runs, functioning essentially as a single coupled
 model. Tasks will include:
 
-- Work with model developers to ensure their models conform to the CSDMS
-  standards and protocols that allow them to be incorporated into the CSDMS
-  model-coupling framework (standards described here:
-  http://csdms.colorado.edu/wiki/BMI_Description).
-- Ensure model compatibility through data exchange items.
-- Individual models wrapped as components within the CSDMS modeling framework.
-- Components and couplings are available through the CSDMS Component Modeling
-  Tool.
-- Organization of model source code within open source repositories (source
-  code will be housed on GitHub).
+-   Work with model developers to ensure their models conform to the CSDMS
+    standards and protocols that allow them to be incorporated into the CSDMS
+    model-coupling framework (standards described here:
+    http://csdms.colorado.edu/wiki/BMI_Description).
+-   Ensure model compatibility through data exchange items.
+-   Aid in design of the integrative Food-Energy-Water modeling framework,
+    particularly a model coupler algorithm that uses existing coupling tools
+    from the CSDMS.
+-   Evaluation of model code performance
+-   Components and couplings are available through the CSDMS Component Modeling
+    Tool.
+-   Organization of model source code within open source repositories (source
+    code will be housed on GitHub).
 
 ### Milestones in the project
 
-*Year 1*: Attend kick-off meeting.  
-*Year 2*: Coupled simulations of the geomorphic models. Simulations will be
+*Year 1*: Attend kick-off meeting.
+*Year 2*: Models will be wrapped with a Basic Modeling Interface so that they
+can operate within the CSDMS framework.  All source code will be publicly
+available on GitHub (or similar).
+*Year 3*: Begin coupled simulations of the models. Simulations will be
 able to be run within the CSDMS modeling framework.  
-*Year 3*: Preliminary agent-based economic models will be wrapped with a
-Basic Modeling Interface to couple with geomorphic models. Source code for
-the economic models will be publicly available on GitHub (or similar).  
-*Year 4*: Final coupling simulations of the geomorphic and agent-based
-economic models.
+*Year 4*: Final coupling of simulations of the models.
 
 ### Period of Performance
 
-1 July 2015 – 30 May 2019, in one-year increments.
+16 July 2016 – 15 July 2020, in one-year increments.
 
-### UNCW Project Manager
+### UW Project Manager
 
-Professor Dylan McNamara
+Professor Erkan Istanbulluoglu
 
 ### Prime Sponsor
 
@@ -54,4 +58,3 @@ National Science Foundation
 ### Physical Location
 
 Work will be performed on campus that the University of Colorado, Boulder.
-
