@@ -35,10 +35,10 @@ model. Tasks will include:
 
 ### Milestones in the project
 
-*Year 1*: Attend kick-off meeting.
+*Year 1*: Attend kick-off meeting.  
 *Year 2*: Models will be wrapped with a Basic Modeling Interface so that they
 can operate within the CSDMS framework.  All source code will be publicly
-available on GitHub (or similar).
+available on GitHub (or similar).  
 *Year 3*: Begin coupled simulations of the models. Simulations will be
 able to be run within the CSDMS modeling framework.  
 *Year 4*: Final coupling of simulations of the models.
