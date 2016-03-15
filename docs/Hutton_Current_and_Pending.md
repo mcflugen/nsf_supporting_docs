@@ -35,5 +35,5 @@
 
 *Proposer name*: Erkan Istanbulluoglu (PI)  
 *Program Name/Sponsoring Agency*: NSF - Geosciences and Computer and Information Science and Engineering  
-*Period of Performance/Total Budget*: 16/9/2017 - 15/9/2021, $134k  
+*Period of Performance/Total Budget*: 16/9/2016 - 15/9/2020, $134k  
 *Commitment (months/year)*: 1.5  
