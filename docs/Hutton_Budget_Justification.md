@@ -21,7 +21,7 @@ coordinating the model development necessary to componentize the identified
 models so that they conform to the CSDMS model-coupling protocols.
 
 Dr. Hutton does not have an academic appointment and so receives all of his
-funding through grants. As a result, he receives more that 2 months of funding
+funding through grants. As a result, he receives more than 2 months of funding
 per year from NSF.
 
 Travel
@@ -29,9 +29,9 @@ Travel
 
 One trip to Seattle (round-trip airfare of $308; ground transportation of
 $103) in years 2, 3, and 4 to attend an annual team meeting. Meetings will
-be two days ($76 per diem for 3 days; 2 nights of lodging for $207) with a
-day of travel to and from Denver and Seattle. Travel costs are budgeted to
-increase at a rate of 2.5% per year.
+be two days with a day of travel to and from Denver and Seattle ($76 per diem
+for 3 days; 2 nights of lodging for $207 per night). Travel costs are
+budgeted to increase at a rate of 2.5% per year.
 
 Accounting Technician and System Administration
 -----------------------------------------------
