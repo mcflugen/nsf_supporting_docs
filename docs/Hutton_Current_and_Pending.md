@@ -4,16 +4,19 @@
 **Computational Infrastructure for the Community Surface Dynamics Modeling Systems**
 
 *Proposer name*: J.P.M. Syvitski (PI)  
+*Award number*: 1226297  
 *Program Name/Sponsoring Agency*: NSF/Geoinformatics  
-*Period of Performance/Total Budget*: 10/15/12 – 10/14/17, $4.8M  
+*Period of Performance/Total Budget*: 10/15/12 – 30/9/17, $3.4M  
 *Commitment (months/year)*: 9.5  
 
 **Tectonics in the Western Anatolia Extensional Province from sequence stratigraphic modeling of multichannel seismic data in the Gulf of Kusadasi**
 
 *Proposer name*: Michael Steckler (PI), Eric Hutton (CO-I)  
+*Award number*: 1559098  
 *Program Name/Sponsoring Agency*: NSF - Marine Geology and Geophysics  
-*Period of Performance/Total Budget*: 15/2/2016 - 14/2/2018, $20k  
+*Period of Performance/Total Budget*: 15/3/2016 - 28/2/2018, $20k  
 *Commitment (months/year)*: 0.5  
+
 
 ## Pending Awards   
 
