@@ -1,4 +1,4 @@
-# Results of Prior NSF Support: Hutton
+# Results from Prior NSF Support: Hutton
 
 *NSF-EAR 0621695 GEO*: $4.8M (04/01/07 - 03/31/12)  
 *Title*: Organizational Infrastructure for the Community Surface Dynamics Modeling System  

@@ -4,7 +4,7 @@ MD_SOURCES= \
   Hutton_Statement_of_Work.md \
   Hutton_Budget_Justification.md  \
   Hutton_Facilities_and_Equipment.md \
-  Hutton_Results_of_Prior.md
+  Hutton_Results_from_Prior.md
 CSV_SOURCES=Hutton_Conflict_of_Interest.csv
 DOCS=${MD_SOURCES:.md=.docx} ${CSV_SOURCES:.csv=.docx}
 
