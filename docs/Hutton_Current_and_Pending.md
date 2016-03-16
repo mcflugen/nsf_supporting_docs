@@ -28,7 +28,7 @@
 
 *Proposer name*: Albert Kettner (PI)  
 *Program Name/Sponsoring Agency*: NSF - Geosciences and Computer and Information Science and Engineering  
-*Period of Performance/Total Budget*: 7/9/2016 - 31/8/2019, $3.5M  
+*Period of Performance/Total Budget*: 1/4/2016 - 31/3/2019, $3.5M  
 *Commitment (months/year)*: 1.0  
 
 **Food-Energy-Water Systems in Mountainous Coastal Watersheds: Examining historical trajectories and the influence of human decisions**
@@ -38,9 +38,11 @@
 *Period of Performance/Total Budget*: 16/9/2017 - 15/9/2021, $134k  
 *Commitment (months/year)*: 1.5  
 
-**Food-Energy-Water Systems in Mountainous Coastal Watersheds: Examining historical trajectories and the influence of human decisions (THIS PROPOSAL)**
+**EarthCube Prototypes: Collaborative Proposal: FluidGlobe:  A Virtual Globe
+Environment to Accelerate Science with Seamless Integration of Geoscience Data
+and Models (THIS PROPOSAL)**
 
-*Proposer name*: Scott Peckham (PI)  
+*Proposer name*: Scott Peckham (PI), Eric Hutton (Co-I)  
 *Program Name/Sponsoring Agency*: NSF, Earth Cube Program/Initiative  
-*Period of Performance/Total Budget*: 1/8/2017 - 31/7/2020, $1.9M  
-*Commitment (months/year)*: 2.0
+*Period of Performance/Total Budget*: 7/9/2017 - 31/8/2019, $1.9M  
+*Commitment (months/year)*: 2.0  
