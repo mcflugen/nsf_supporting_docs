@@ -8,7 +8,7 @@
 community-driven program that seeks to transform the science and practice of
 earth-surface dynamics modeling. One of the main focuses of the project is
 to aid in model development and model coupling. Integration Facility staff
-have published 78 peer-reviewed papers and provided 105 presentations.
+have published 48 peer-reviewed papers and provided 85 presentations.
 
 *Broader Impact*: CSDMS2.0 has organized, hosted or sponsored 118 workshops,
 symposia and meetings, and offered 22 short courses and 36 clinics. The CSDMS
