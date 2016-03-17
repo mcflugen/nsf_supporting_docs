@@ -17,13 +17,142 @@ diverse community of 1370 members represents 176 U.S. institutions (129
 academic, 26 private, 21 federal) and 315 non-U.S. institutions (210 acad.,
 31 private, 74 govt.) from 68 countries.
 
-*Selected Publications*:
+*Publications* (Full citations in the reference section):
 
-*  Hutton, E. W., Piper, M. D., Overeem, I., Kettner, A. J., and J. P.
-   Syvitski. 2014 Building Sustainable Software-The CSDMS Approach.
-   http://arxiv.org/abs/1407.4106
-*  Syvitski, J. P. M., Hutton, E. W. H., Piper, M. D., Overeem, I., Kettner,
-   A. J., and Peckham, S. D. 2014 Plug and play component modeling - the
-   CSDMS2.0 approach. In Proceedings of the 7th Intl. Congress on Env.
-   Modelling and Software, International Environmental Modelling and Software
-   Society (iEMSs). San Diego, CA.
+Ashton et al., 2013;
+Barnhart et al., 2014a;
+Barnhart et al., 2014b;
+Brakenridge et al., 2013a;
+Brakenridge et al., 2013b;
+Campbell et al., 2013;
+Chen et al., 2015;
+Chen et al., 2012;
+Cohen et al., 2014;
+Cohen et al., 2013;
+De Winter et al., 2012;
+Fekete et al., 2012;
+Foufoula-Georgiou et al., 2013;
+Gao et al., 2014;
+Giosan et al., 2014;
+Giosan et al., 2012a;
+Giosan 2012b;
+Higgins et al., 2014;
+Higgins et al., 2013;
+Hoke et al., 2014;
+Hudson et al., 2014;
+Hutton et al., 2013;
+Kettner et al., 2013;
+Khan et al., 2012;
+Kundzewicz et al., 2013;
+Laniak et al., 2013;
+Overeem et al., 2013;
+Peckham and Goodall, 2013;
+Peckham et al., 2013;
+Pinskwar et al., 2012;
+Renaud et al., 2013;
+Restrepo and Kettner, 2012;
+Rogers et al., 2013;
+Skei and Syvitski 2013;
+Syvitski, 2014;
+Syvitski et al., 2014a;
+Syvitski et al., 2014b;
+Syvitski and Brakenridge, 2013;
+Syvitski et al., 2012;
+Syvitski et al., 2013;
+Syvitski and Higgins, 2012;
+Upton et al., 2013;
+Vanmaercke et al., 2014;
+Warrick et al., 2014;
+Waters et al., 2015;
+Westerhoff et al., 2013;
+Zalasiewicz et al., 2015;
+Zalasiewicz et al., 2014
+
+
+*Abstracts* (Full citations in the reference section):
+
+Adams et al., 2013;
+Ashton et al., 2013;
+Backus et al., 2013;
+Barnhart et al., 2013;
+Best et al., 2014;
+Birchler et al., 2014;
+Brakenridge et al., 2013;
+Chen et al., 2014;
+Cohen et al., 2013;
+Cohen et al., 2014;
+Cohen et al., 2012;
+Cohen et al., 2013;
+Cohen et al., 2012;
+Cohen et al., 2013;
+Cohen et al., 2014;
+Cohen et al., 2014;
+Di Achille et al.,2014;
+Gao et al., 2014;
+Giosan et al., 2012;
+Gochis et al., 2012;
+Hartmann et al., 2012;
+Higgins 2014;
+Higgins et al., 2014;
+Higgins et al., 2014;
+Higgins et al., 2013;
+Higgins et al., 2015;
+Hinzman et al., 2012;
+Hobley et al., 2013;
+Hobley et al., 2013;
+Hudson et al., 2013;
+Hudson et al., 2014;
+Hutton et al., 2014;
+Kettner et al., 2013;
+Kettner et al., 2012;
+Kettner et al., 2013;
+Kettner et al., 2013;
+Mayorga et al., 2014;
+Overeem et al., 2015;
+Overeem et al., 2014;
+Overeem 2014;
+Overeem 2014;
+Overeem 2014;
+Overeem 2015;
+Overeem et al., 2015;
+Overeem et al., 2012;
+Overeem et al., 2012;
+Overeem et al., 2014;
+Overeem et al., 2014;
+Overeem et al., 2014;
+Overeem et al., 2013;
+Overeem et al., 2014;
+Overeem and Kim, 2013;
+Overeem et al., 2014;
+Overeem et al., 2014;
+Peckham 2012;
+Peckham 2012;
+Rogers and Overeem, 2013;
+Rogers and Overeem 2014;
+Slayback et al., 2013;
+Syvitski and Higgins 2014;
+Syvitski 2013;
+Syvitski 2013;
+Syvitski 2014;
+Syvitski 2014;
+Syvitski 2014;
+Syvitski 2014;
+Syvitski 2014;
+Syvitski 2014;
+Syvitski 2014;
+Syvitski et al., 2013;
+Syvitski 2012;
+Syvitski 2012;
+Syvitski 2012;
+Syvitski 2012;
+Syvitski 2013;
+Syvitski 2013;
+Syvitski et al., 2012;
+Syvitski et al., 2014;
+Syvitski et al., 2014;
+Syvitski 2013;
+Syvitski 2013;
+Syvitski 2014;
+Upton et al., 2012;
+Xing et al., 2013;
+Xing et al., 2014
