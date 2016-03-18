@@ -6,8 +6,9 @@
 
 *Intellectual Merit*: This is an NSF-supported, international and
 community-driven program that seeks to transform the science and practice of
-earth-surface dynamics modeling. Integration Facility staff have published 78
-peer-reviewed papers and provided 105 presentations.
+earth-surface dynamics modeling. One of the main focuses of the project is
+to aid in model development and model coupling. Integration Facility staff
+have published 48 peer-reviewed papers and provided 85 presentations.
 
 *Broader Impact*: CSDMS2.0 has organized, hosted or sponsored 118 workshops,
 symposia and meetings, and offered 22 short courses and 36 clinics. The CSDMS
@@ -19,50 +20,50 @@ academic, 26 private, 21 federal) and 315 non-U.S. institutions (210 acad.,
 *Publications* (Full citations in the reference section):
 
 Ashton et al., 2013;
-Barnhart, K., et al., 2014a;
-Barnhart, K., et al., 2014b;
-Brakenridge, G.R., et al., 2013a;
-Brakenridge, G.R., et al., 2013b;
-Campbell, K., et al., 2013;
-Chen, Y., et al., 2015;
-Chen, Y., et al., 2012;
-Cohen, S., et al., 2014;
-Cohen, S., et al., 2013;
-De Winter, I., et al., 2012;
-Fekete, B. M., et al., 2012;
-Foufoula-Georgiou, E., et al., 2013;
-Gao, J.H., et al., 2014;
-Giosan, L., et al., 2014;
-Giosan, L, et al., 2012a;
-Giosan, L., 2012b;
-Higgins, S, et al., 2014;
-Higgins, S., et al., 2013;
-Hoke, MRT, et al., 2014;
-Hudson, B., et al., 2014;
-Hutton EWH, et al., 2013;
-Kettner, AJ et al., 2013;
-Khan, S.I., et al., 2012;
-Kundzewicz , Z.W., et al., 2013;
-Laniak, G.F., et al., 2013;
-Overeem, I., et al., 2013;
-Peckham, S.D. and Goodall J.L. 2013;
-Peckham, S.D., et al., 2013;
-Pinskwar, I., et al., 2012;
-Renaud, F, et al., 2013;
-Restrepo, J.D., and Kettner, A.J., 2012;
-Rogers, KG, et al., 2013;
-Skei, J.M., and Syvitski, JPM, 2013;
-Syvitski, JPM 2014;
-Syvitski, JPM, et al., 2014a;
-Syvitski, JPM, et al., 2014b;
-Syvitski, J.P.M. and Brakenridge, G.R., 2013;
-Syvitski, J.P.M., et al., 2012;
-Syvitski, J.P.M., et al., 2013;
-Syvitski, JPM and Higgins, S., 2012;
-Upton, P., et al., 2013;
-Vanmaercke, M, et al., 2014;
-Warrick, JA, et al., 2014;
-Waters CN, et al., 2015;
-Westerhoff, R. S., et al., 2013;
-Zalasiewicz, J, et al., 2015;
-Zalasiewicz, J, et al., 2014;
+Barnhart et al., 2014a;
+Barnhart et al., 2014b;
+Brakenridge et al., 2013a;
+Brakenridge et al., 2013b;
+Campbell et al., 2013;
+Chen et al., 2015;
+Chen et al., 2012;
+Cohen et al., 2014;
+Cohen et al., 2013;
+De Winter et al., 2012;
+Fekete et al., 2012;
+Foufoula-Georgiou et al., 2013;
+Gao et al., 2014;
+Giosan et al., 2014;
+Giosan et al., 2012a;
+Giosan 2012b;
+Higgins et al., 2014;
+Higgins et al., 2013;
+Hoke et al., 2014;
+Hudson et al., 2014;
+Hutton et al., 2013;
+Kettner et al., 2013;
+Khan et al., 2012;
+Kundzewicz et al., 2013;
+Laniak et al., 2013;
+Overeem et al., 2013;
+Peckham and Goodall, 2013;
+Peckham et al., 2013;
+Pinskwar et al., 2012;
+Renaud et al., 2013;
+Restrepo and Kettner, 2012;
+Rogers et al., 2013;
+Skei and Syvitski 2013;
+Syvitski, 2014;
+Syvitski et al., 2014a;
+Syvitski et al., 2014b;
+Syvitski and Brakenridge, 2013;
+Syvitski et al., 2012;
+Syvitski et al., 2013;
+Syvitski and Higgins, 2012;
+Upton et al., 2013;
+Vanmaercke et al., 2014;
+Warrick et al., 2014;
+Waters et al., 2015;
+Westerhoff et al., 2013;
+Zalasiewicz et al., 2015;
+Zalasiewicz et al., 2014
