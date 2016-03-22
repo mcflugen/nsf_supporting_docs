@@ -59,7 +59,7 @@
 
 ## Synergistic Activities
 
-**Community Standards for Model Coupling:**
+### Community Standards for Model Coupling
 
 1.  BMI: A Basic Modeling Interface Standard, Version 0.9. The Community
     Surface Dynamics Modeling System,
@@ -68,7 +68,7 @@
     Community Surface Dynamics Modeling System,
     http://csdms.colorado.edu/wiki/CSDMS_Standard_Names.
 
-**Model-Coupling Education Through Short Courses and Conference Sessions:**
+### Model-Coupling Education Through Short Courses and Conference Sessions
 
 3.  Plug-and-play Modeling with the Web Modeling Tool. Two-hour short-course.
     CSDMS Conference 2014, Boulder, Colorado, USA.
