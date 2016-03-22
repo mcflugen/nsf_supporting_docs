@@ -50,13 +50,13 @@ def main():
         #                           row[4].strip())
         name = '{last}, {first}'.format(last=last, first=first)
         if ctype == 'Collaborator':
-            collaborators.append("1. {name}, ({institute})".format(
+            collaborators.append("1. {name} ({institute})".format(
                 name=name, institute=institute))
         elif row[-1].strip() == 'Advisor':
-            advisors.append("1. {name}, ({institute})".format(
+            advisors.append("1. {name} ({institute})".format(
                 name=name, institute=institute))
         elif row[-1].strip() == 'Advisee':
-            advisees.append("1. {name}, ({institute})".format(
+            advisees.append("1. {name} ({institute})".format(
                 name=name, institute=institute))
         else:
             warnings.warn(
