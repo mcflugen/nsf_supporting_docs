@@ -32,10 +32,21 @@ _TEMPLATE = """
 Conflict = namedtuple('Conflict', ['first', 'last', 'institute', 'type'])
 
 
+def render_conflict(conflict):
+    return '1. {last}, {first} (*{institute}*)'.format(**conflict._asdict())
+
+
+def render_conflict_list(conflicts):
+    conflict_list = []
+    for conflict in conflicts:
+        conflict_list.append(render_conflict(conflict))
+    return conflict_list
+
+
 def render_document(conflicts):
-    collaborators = conflicts['Collaborator']
-    advisors = conflicts['Advisor']
-    advisees = conflicts['Advisee']
+    collaborators = render_conflict_list(conflicts.get('Collaborator', []))
+    advisors = render_conflict_list(conflicts.get('Advisor', []))
+    advisees = render_conflict_list(conflicts.get('Advisee', []))
 
     return _TEMPLATE.format(
         collaborators=os.linesep.join(collaborators or ['None']),
@@ -44,6 +55,25 @@ def render_document(conflicts):
         number_of_advisors=len(advisors),
         advisees=os.linesep.join(advisees or ['None']),
         number_of_advisees=len(advisees))
+
+
+def load_conflicts(path_to_file, with_header=True):
+    reader = csv.reader(path_to_file, delimiter=',')
+    if with_header:
+        reader.next()
+
+    conflicts = [Conflict(row[4], row[3], row[5], row[6]) for row in reader]
+    conflicts.sort(cmp=lambda a, b: cmp(a.last, b.last))
+
+    conflict_groups = defaultdict(list)
+    for conflict in conflicts:
+        if conflict.type not in ['Collaborator', 'Advisor', 'Advisee']:
+            warnings.warn(
+                '{type}: conflict type not understood'.format(type=conflict.type))
+        else:
+            conflict_groups[conflict.type].append(conflict)
+
+    return conflict_groups
 
 
 def main():
@@ -58,20 +88,7 @@ def main():
                         help='Output markdown file')
     
     args = parser.parse_args()
-
-    reader = csv.reader(args.file, delimiter=',')
-    if args.with_header:
-        reader.next()
-
-    conflicts = defaultdict(list)
-    for row in reader:
-        conflict = Conflict(row[3], row[4], row[5], row[6])
-        item = '1. {last}, {first} ({institute})'.format(**conflict._asdict())
-        if conflict.type not in ['Collaborator', 'Advisor', 'Advisee']:
-            warnings.warn(
-                '{type}: conflict type not understood'.format(type=ctype))
-        else:
-            conflicts[conflict.type].append(item)
+    conflicts = load_conflicts(args.file, with_header=args.with_header)
 
     print(render_document(conflicts), file=args.output)
 
