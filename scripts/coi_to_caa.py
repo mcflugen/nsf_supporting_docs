@@ -21,8 +21,9 @@ _TEMPLATE = """
 
 {advisors}
 
-### Thesis Advisor and Postdoctoral Sponsor (0) ###
-None
+### Thesis Advisor and Postdoctoral Sponsor ({number_of_advisees}) ###
+
+{advisees}
 """.strip()
 
 
@@ -36,18 +37,26 @@ def main():
     
     args = parser.parse_args()
 
-    reader = csv.reader(args.file, delimiter=';')
+    reader = csv.reader(args.file, delimiter=',')
 
     collaborators = []
     advisors = []
+    advisees = []
     for row in reader:
-        name, institute, ctype = (row[2].strip(), row[3].strip(),
-                                  row[4].strip())
+        last, first, institute, ctype = (row[3].strip(), row[4].strip(),
+                                         row[5].strip(), row[6].strip())
+
+        # name, institute, ctype = (row[2].strip(), row[3].strip(),
+        #                           row[4].strip())
+        name = '{last}, {first}'.format(last=last, first=first)
         if ctype == 'Collaborator':
             collaborators.append("1. {name}, ({institute})".format(
                 name=name, institute=institute))
         elif row[-1].strip() == 'Advisor':
             advisors.append("1. {name}, ({institute})".format(
+                name=name, institute=institute))
+        elif row[-1].strip() == 'Advisee':
+            advisees.append("1. {name}, ({institute})".format(
                 name=name, institute=institute))
         else:
             warnings.warn(
@@ -56,7 +65,9 @@ def main():
     print(_TEMPLATE.format(collaborators=os.linesep.join(collaborators),
                            number_of_collaborators=len(collaborators),
                            advisors=os.linesep.join(advisors),
-                           number_of_advisors=len(advisors)),
+                           number_of_advisors=len(advisors),
+                           advisees=os.linesep.join(advisees),
+                           number_of_advisees=len(advisees)),
          file=args.output)
 
 
