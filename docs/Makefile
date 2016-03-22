@@ -28,7 +28,7 @@ OPTIONS=-N --variable mainfont="Times New Roman" --variable sansfont="Helvetica"
 	../scripts/coi_to_caa.py $< | pandoc --to=latex ${OPTIONS} -o $@
 
 .csv.docx:
-	../scripts/coi_to_caa.py $< | pandoc --to=docx -o $@
+	../scripts/coi_to_caa.py $< | pandoc --to=docx --reference-docx=nsf_template.docx -o $@
 
 all: docx
 
