@@ -4,6 +4,8 @@ from __future__ import print_function
 import os
 import argparse
 import csv
+import warnings
+from collections import namedtuple, defaultdict
 
 _TEMPLATE = """
 # Collaborators and Other Affiliations #
@@ -27,10 +29,30 @@ _TEMPLATE = """
 """.strip()
 
 
+Conflict = namedtuple('Conflict', ['first', 'last', 'institute', 'type'])
+
+
+def render_document(conflicts):
+    collaborators = conflicts['Collaborator']
+    advisors = conflicts['Advisor']
+    advisees = conflicts['Advisee']
+
+    return _TEMPLATE.format(
+        collaborators=os.linesep.join(collaborators or ['None']),
+        number_of_collaborators=len(collaborators),
+        advisors=os.linesep.join(advisors or ['None']),
+        number_of_advisors=len(advisors),
+        advisees=os.linesep.join(advisees or ['None']),
+        number_of_advisees=len(advisees))
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('file', type=argparse.FileType('r'),
                         help='CSV-file of conflicts')
+    parser.add_argument('--no-header', dest='with_header',
+                        action='store_false', default=True,
+                        help='The input file does not contain a header line')
     parser.add_argument('--output',
                         type=argparse.FileType('w'),
                         help='Output markdown file')
@@ -38,37 +60,20 @@ def main():
     args = parser.parse_args()
 
     reader = csv.reader(args.file, delimiter=',')
+    if args.with_header:
+        reader.next()
 
-    collaborators = []
-    advisors = []
-    advisees = []
+    conflicts = defaultdict(list)
     for row in reader:
-        last, first, institute, ctype = (row[3].strip(), row[4].strip(),
-                                         row[5].strip(), row[6].strip())
-
-        # name, institute, ctype = (row[2].strip(), row[3].strip(),
-        #                           row[4].strip())
-        name = '{last}, {first}'.format(last=last, first=first)
-        if ctype == 'Collaborator':
-            collaborators.append("1. {name} ({institute})".format(
-                name=name, institute=institute))
-        elif row[-1].strip() == 'Advisor':
-            advisors.append("1. {name} ({institute})".format(
-                name=name, institute=institute))
-        elif row[-1].strip() == 'Advisee':
-            advisees.append("1. {name} ({institute})".format(
-                name=name, institute=institute))
-        else:
+        conflict = Conflict(row[3], row[4], row[5], row[6])
+        item = '1. {last}, {first} ({institute})'.format(**conflict._asdict())
+        if conflict.type not in ['Collaborator', 'Advisor', 'Advisee']:
             warnings.warn(
                 '{type}: conflict type not understood'.format(type=ctype))
+        else:
+            conflicts[conflict.type].append(item)
 
-    print(_TEMPLATE.format(collaborators=os.linesep.join(collaborators),
-                           number_of_collaborators=len(collaborators),
-                           advisors=os.linesep.join(advisors),
-                           number_of_advisors=len(advisors),
-                           advisees=os.linesep.join(advisees),
-                           number_of_advisees=len(advisees)),
-         file=args.output)
+    print(render_document(conflicts), file=args.output)
 
 
 if __name__ == '__main__':
