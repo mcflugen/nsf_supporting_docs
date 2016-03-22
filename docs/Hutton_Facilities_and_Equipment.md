@@ -38,6 +38,51 @@ load. The Beach login node and storage are backed-up by a separate SGI
 installed UPS system. Beach is supported by the CU ITS Managed Services
 (UnixOps) under contract to CSDMS.
 
+A new supercomputer, funded by NSF under Grant No. AC-1532236, is currently
+under procurement. The exact details of the system are not yet determined but
+the peak performance will be about 500 TFLOPS. The system will have 10 GPU
+nodes containing two NVIDIA K80 GPUs, 5 high-memory nodes with about 1 TB
+of main memory and in a second deployment 20 Xeon Phi ("Knight’s Landing")
+nodes for development.
+
+## Data Storage
+
+Researchers using the computational resources at CU Boulder will have a home
+directory with 2GB and a project space consisting of 250 GB of storage.
+Additional storage is provided as part of a storage condominium at a cost of
+$100 per TB for single copy storage. Tape and HSM are additional storage
+options that are available for archive data.
+
+**PetaLibrary**
+
+The two main categories of services are offered to members of the
+PetaLibrary are Active storage for data that needs to be accessed frequently
+and Archive storage for data that is accessed infrequently. Active data is
+always stored on disk and is accessible to researchers on compute resources
+managed by RC. Archive storage consists of a two level hierarchical storage
+management (HSM) solution, with disk storage for data that is more likely to
+be accessed and tape for data that is less likely to be accessed frequently.
+The cost for the research is $100/TB/year for disk and $20/TB/year for tape.
+
+## Web Server
+
+A web server through the Community Surface Dynamics Modeling System
+(CSDMS, NSF funded) and the Dartmouth Flood Observatory (DFO, mainly NASA
+funded) (Letter of collaboration Syvitski). These two programs purchased a
+
+The CSDMS web server is a PowerEdge R730 Dell Server. The Dell Server contains:
+
+-  8 x 16GB RAM memory capacity
+-  2 Intel Xeon E5-2630 v3 2.4GHz, 20M Cache, 8.00GT/s QPI, Turbo, HT, 8
+   core/16T (85W) processors
+-  8 x 4TB hard drives configured as a RAID 6 to minimize data loss in the
+   event of a hard drive failure.
+
+Critical data are backed-up daily through a backup server supported
+by the CSDMS program. A backup server, monthly maintenance costs (for both
+the web and backup servers) and a seven-year hardware warranty is covered by
+CSDMS.
+
 ## Peripherals
 
 B&W and Color LaserJet printers, Color Scanners, and a HP Design Jet 5000PS
@@ -61,4 +106,4 @@ by a firewall.
 20 to 60 people). Office space for Postdoctoral position and graduate student
 are provided by INSTAAR. Typically, a Postdoctoral fellow could share his
 office with one other researcher. Graduate students are typically sharing
-offices with 1or 2 other students.
+offices with 1 or 2 other students.
