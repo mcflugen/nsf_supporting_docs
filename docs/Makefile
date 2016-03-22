@@ -14,21 +14,22 @@ CSV_SOURCES=Hutton_Conflict_of_Interest.csv
 DOCS=${MD_SOURCES:.md=.docx} ${CSV_SOURCES:.csv=.docx}
 PDF_DOCS=${MD_SOURCES:.md=.pdf} ${CSV_SOURCES:.csv=.pdf}
 
-OPTIONS=-N --variable mainfont="Times New Roman" --variable sansfont="Helvetica" --variable monofont="Courier" --variable fontsize=12pt --latex-engine=xelatex
+TO_PDF_OPTS=-N --variable mainfont="Times New Roman" --variable sansfont="Helvetica" --variable monofont="Courier" --variable fontsize=12pt --latex-engine=xelatex
+TO_DOCX_OPTS=--to=docx --reference-docx=templates/nsf_template.docx
 
 .SUFFIXES : .md .csv .docx .pdf
 
 .md.pdf:
-	pandoc --to=latex $< ${OPTIONS} -o $@
+	pandoc --to=latex $< ${TO_PDF_OPTS} -o $@
 
 .md.docx:
-	pandoc --to=docx --reference-docx=nsf_template.docx $< -o $@
+	pandoc ${TO_DOCX_OPTS} $< -o $@
 
 .csv.pdf:
-	../scripts/coi_to_caa.py $< | pandoc --to=latex ${OPTIONS} -o $@
+	../scripts/coi_to_caa.py $< | pandoc --to=latex ${TO_PDF_OPTS} -o $@
 
 .csv.docx:
-	../scripts/coi_to_caa.py $< | pandoc --to=docx --reference-docx=nsf_template.docx -o $@
+	../scripts/coi_to_caa.py $< | pandoc ${TO_DOCX_OPTS} -o $@
 
 all: docx
 
