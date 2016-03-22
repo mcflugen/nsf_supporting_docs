@@ -14,7 +14,7 @@ CSV_SOURCES=Hutton_Conflict_of_Interest.csv
 DOCS=${MD_SOURCES:.md=.docx} ${CSV_SOURCES:.csv=.docx}
 PDF_DOCS=${MD_SOURCES:.md=.pdf} ${CSV_SOURCES:.csv=.pdf}
 
-OPTIONS=-N --template=template.tex --variable mainfont="Arial" --variable sansfont="Helvetica" --variable monofont="Courier" --variable fontsize=12pt --latex-engine=xelatex
+OPTIONS=-N --variable mainfont="Times New Roman" --variable sansfont="Helvetica" --variable monofont="Courier" --variable fontsize=12pt --latex-engine=xelatex
 
 .SUFFIXES : .md .csv .docx .pdf
 
@@ -22,7 +22,7 @@ OPTIONS=-N --template=template.tex --variable mainfont="Arial" --variable sansfo
 	pandoc --to=latex $< ${OPTIONS} -o $@
 
 .md.docx:
-	pandoc --to=docx $< -o $@
+	pandoc --to=docx --reference-docx=nsf_template.docx $< -o $@
 
 .csv.pdf:
 	../scripts/coi_to_caa.py $< | pandoc --to=latex ${OPTIONS} -o $@
