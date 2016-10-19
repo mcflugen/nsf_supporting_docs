@@ -20,20 +20,5 @@ Commitment (months/year): 0.5
 
 Proposer name: Dylan McNamara (PI), Eric Hutton (CO-I)
 Program Name/Sponsoring Agency: NSF - Dynamics of Coupled Natural and Human Systems
-Period of Performance/Total Budget: 1/7/2016 - 30/6/2020, $83k
+Period of Performance/Total Budget: 1/7/2017 - 30/6/2021, $85k
 Commitment (months/year): 1.0
-
-## The Earth Cube Integration Facility
-
-Proposer name: Albert Kettner (PI)
-Program Name/Sponsoring Agency: NSF - Geosciences and Computer and Information Science and Engineering
-Period of Performance/Total Budget: 1/4/2016 - 31/3/2019, $3.5M
-Commitment (months/year): 1.0
-
-## Food-Energy-Water Systems in Mountainous Coastal Watersheds: Examining historical trajectories and the influence of human decisions (THIS PROPOSAL)
-
-Proposer name: Erkan Istanbulluoglu (PI)
-Program Name/Sponsoring Agency: NSF - Geosciences and Computer and Information Science and Engineering
-Period of Performance/Total Budget: 16/9/2017 - 15/9/2021, $134k
-Commitment (months/year): 1.5
-

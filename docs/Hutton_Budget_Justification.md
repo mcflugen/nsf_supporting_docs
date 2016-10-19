@@ -4,27 +4,21 @@ Budget Justification
 Software Engineer
 -----------------
 
-Requirements include experience with system software and surface dynamic
-modeling (delta and near-shore processes, in particular), model coupling,
-abilities in high level (e.g. IDL, Matlab) and operational level (e.g. C,
-C++, Fortran, Python) languages, grid and mesh generation, and numerical
-methods (e.g. Eulerian, Lagrangian, implicit/explicit solvers, finite
-difference, and finite element methods).
+Requirements include experience with system software and surface
+dynamic modeling (delta and near-shore processes, in particular), model
+coupling, abilities in high level (e.g. IDL, Matlab) and operational
+level (e.g. C, C++, Fortran, Python) languages, grid and mesh generation,
+and numerical methods (e.g. Eulerian, Lagrangian, implicit/explicit
+solvers, finite difference, and finite element methods).
 
 Eric Hutton is the Senior Software Engineer on the NSF-funded CSDMS
 (Community Surface Dynamics Modeling System) project. He has proven
-experience in multi-language codes, sediment transport and geophysical model
-development, and model coupling. Duties will include overseeing and
-coordinating the model development necessary to componentize the identified
-models so that they conform to the CSDMS model-coupling protocols.
-(2 months/y in years 2, 3, and 4)
+experience in multi- language codes, sediment transport and
+geophysical model development, and model coupling. Duties will
+include overseeing and coordinating the model development necessary
+to componentize the identified models so that they conform to the
+CSDMS model-coupling protocols. (1 months/year in years 1 through 4)
 
-Travel
-------
-
-One trip to Seattle (round-trip airfare of $300; ground transportation of
-$100) per year to attend an annual team meeting. Meetings will be two days
-($74 per diem) with a day of travel to and from Denver and Seattle.
 
 Accounting Technician and System Administration
 -----------------------------------------------
@@ -43,8 +37,8 @@ Indirect Costs
 --------------
 
 Indirect costs are charged according to our federally negotiated rate
-agreement. The indirect cost rate for on-campus research is 53.5% of Modified
-Total Direct Cost (MTDC), predetermined for the period 7/1/2015-6/30/2016;
+agreement. The indirect cost rate for on-campus research is 54.0% of Modified
+Total Direct Cost (MTDC), predetermined for the period 7/1/2017-6/30/2018;
 54% MTDC, predetermined for the period 7/1/2016-6/30/2018; provisional
 thereafter per HHS agreement dated 7/20/2015.
 
@@ -64,7 +58,7 @@ Fringe Benefits
 Fringe Benefits are calculated on requested salary per the University's
 federally negotiated Indirect Cost Rate Agreement, with the Department of
 Health and Human Services (DHHS). Applicable rates are 30% for academic
-faculty, 37.3% for research personnel, and 13.2% for graduate research
+faculty, 37.7% for research personnel, and 13.2% for graduate research
 assistants.
 
 Inflation
