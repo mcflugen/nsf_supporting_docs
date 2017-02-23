@@ -1,4 +1,4 @@
-# Eric Hutton
+# Eric W. H. Hutton
 
 ## Professional Preparation
 

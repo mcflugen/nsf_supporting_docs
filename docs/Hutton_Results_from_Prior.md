@@ -1,32 +1,14 @@
 # Results from Prior NSF Support: Hutton
 
-*NSF-EAR 0621695 GEO*: $4.8M (04/01/07 - 03/31/12)  
-*Title*: Organizational Infrastructure for the Community Surface Dynamics Modeling System  
-*PI*: J.P.M. Syvitski; Senior Personnel: E. Hutton (and others).
-
-*Intellectual Merit*: CSDMS catalyzes new paradigms and practices in
-developing and employing software to understand the earth’s surface - the
-ever-changing dynamic interface between lithosphere, hydrosphere, cryosphere
-and atmosphere. CSDMS focuses on the movement of fluids and the sediment and
-solutes they transport through landscapes, seascapes and sedimentary basins.
-
-*Broader Impact*: CSDMS supports the development, integration, dissemination
-and archiving of community open-source software, that reflects and predicts
-earth-surface processes over a broad range of temporal and spatial scales.
-Phase 1 ended with a global membership of 700 scientists from 330 institutions
-from 49 countries form part of the present CSDMS effort.  CSDMS has organized,
-hosted or sponsored 120 workshops, symposia and meetings, providing 11 short
-courses and 25 clinics. The CSDMS Model Repository hosts 143 open-source
-models, and 49 modeling tools.
-
 *NSF-EAR 1226297 GEO/BIO/ACI*: $4.5M (10/01/12 - 9/31/17)  
 *Title*: Computational Infrastructure for the Community Surface Dynamics Modeling System  
 *PI*: J.P.M. Syvitski; Senior Personnel: E. Hutton (and others).
 
 *Intellectual Merit*: This is an NSF-supported, international and
 community-driven program that seeks to transform the science and practice of
-earth-surface dynamics modeling. Integration Facility staff have published 78
-peer-reviewed papers and provided 105 presentations.
+earth-surface dynamics modeling. One of the main focuses of the project is
+to aid in model development and model coupling. Integration Facility staff
+have published 48 peer-reviewed papers and provided 85 presentations.
 
 *Broader Impact*: CSDMS2.0 has organized, hosted or sponsored 118 workshops,
 symposia and meetings, and offered 22 short courses and 36 clinics. The CSDMS

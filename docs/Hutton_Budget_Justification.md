@@ -4,6 +4,8 @@ Budget Justification
 Software Engineer
 -----------------
 
+*2 months/y in years 2, 3, and 4*
+
 Requirements include experience with system software and surface dynamic
 modeling (delta and near-shore processes, in particular), model coupling,
 abilities in high level (e.g. IDL, Matlab) and operational level (e.g. C,
@@ -17,14 +19,19 @@ experience in multi-language codes, sediment transport and geophysical model
 development, and model coupling. Duties will include overseeing and
 coordinating the model development necessary to componentize the identified
 models so that they conform to the CSDMS model-coupling protocols.
-(2 months/y in years 2, 3, and 4)
+
+Dr. Hutton does not have an academic appointment and so receives all of his
+funding through grants. As a result, he receives more than 2 months of funding
+per year from NSF.
 
 Travel
 ------
 
-One trip to Seattle (round-trip airfare of $300; ground transportation of
-$100) per year to attend an annual team meeting. Meetings will be two days
-($74 per diem) with a day of travel to and from Denver and Seattle.
+One trip to Seattle (round-trip airfare of $308; ground transportation of
+$103) in years 2, 3, and 4 to attend an annual team meeting. Meetings will
+be two days with a day of travel to and from Denver and Seattle ($76 per diem
+for 3 days; 2 nights of lodging for $207 per night). Travel costs are
+budgeted to increase at a rate of 2.5% per year.
 
 Accounting Technician and System Administration
 -----------------------------------------------
