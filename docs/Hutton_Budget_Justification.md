@@ -1,10 +1,8 @@
-Budget Justification
-====================
+# Budget Justification
 
-Software Engineer
------------------
+## Software Engineer
 
-*2 months/y in years 2, 3, and 4*
+*2 months/y in years 1, 2, 3, and 4*
 
 Requirements include experience with system software and surface dynamic
 modeling (delta and near-shore processes, in particular), model coupling,
@@ -24,17 +22,15 @@ Dr. Hutton does not have an academic appointment and so receives all of his
 funding through grants. As a result, he receives more than 2 months of funding
 per year from NSF.
 
-Travel
-------
+## Travel
 
-One trip to Seattle (round-trip airfare of $308; ground transportation of
-$103) in years 2, 3, and 4 to attend an annual team meeting. Meetings will
-be two days with a day of travel to and from Denver and Seattle ($76 per diem
-for 3 days; 2 nights of lodging for $207 per night). Travel costs are
+Two trips to Tempe (round-trip airfare of $308; ground transportation of
+$103) in years 2, and 3 to attend an annual team meeting. Meetings will
+be three days with a day of travel to and from Denver and Tempe ($76 per diem
+for 4 days; 3 nights of lodging for $207 per night). Travel costs are
 budgeted to increase at a rate of 2.5% per year.
 
-Accounting Technician and System Administration
------------------------------------------------
+## Accounting Technician and System Administration
 
 Partial salary is requested for technical assistance to support the executing,
 administration and accounting of Center activities. INSTAAR is a unique unit
@@ -46,8 +42,7 @@ investigator has access to a depth and broad range of scientific expertise
 that complements his/her research. The system Administrator is responsible for
 the IT needs of the project.
 
-Indirect Costs
---------------
+## Indirect Costs
 
 Indirect costs are charged according to our federally negotiated rate
 agreement. The indirect cost rate for on-campus research is 53.5% of Modified
@@ -65,8 +60,7 @@ states, and will be working with scientists from around the world. Activities
 will include surface mail, fax, teleconferencing, and duplication of shared
 material.
 
-Fringe Benefits
----------------
+## Fringe Benefits
 
 Fringe Benefits are calculated on requested salary per the University's
 federally negotiated Indirect Cost Rate Agreement, with the Department of
@@ -74,8 +68,7 @@ Health and Human Services (DHHS). Applicable rates are 30% for academic
 faculty, 37.3% for research personnel, and 13.2% for graduate research
 assistants.
 
-Inflation
----------
+## Inflation
 
 The University of Colorado's current budget planning parameters include an
 annual inflation factor of 3% for salaries for investigators, post-doctoral

@@ -1,6 +1,6 @@
-# Facilities and Equipment #
+# Facilities and Equipment
 
-## University of Colorado ##
+## University of Colorado
 
 A comprehensive Research 1 public university, CU Boulder campus has a long
 (>50 year) tradition of interdisciplinary research and enjoys formal research
@@ -50,7 +50,7 @@ nodes for development.
 Researchers using the computational resources at CU Boulder will have a home
 directory with 2GB and a project space consisting of 250 GB of storage.
 Additional storage is provided as part of a storage condominium at a cost of
-$100 per TB for single copy storage. Tape and HSM are additional storage
+$ 100 per TB for single copy storage. Tape and HSM are additional storage
 options that are available for archive data.
 
 **PetaLibrary**
@@ -62,7 +62,7 @@ always stored on disk and is accessible to researchers on compute resources
 managed by RC. Archive storage consists of a two level hierarchical storage
 management (HSM) solution, with disk storage for data that is more likely to
 be accessed and tape for data that is less likely to be accessed frequently.
-The cost for the research is $100/TB/year for disk and $20/TB/year for tape.
+The cost for the research is $ 100/TB/year for disk and $ 20/TB/year for tape.
 
 ## Web Server
 

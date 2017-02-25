@@ -1,12 +1,11 @@
 MD_SOURCES= \
   Hutton_Bio_Sketch.md \
-  Hutton_Current_and_Pending.md  \
+  Hutton_Current_and_Pending.md \
   Hutton_Statement_of_Work.md \
   Hutton_Budget_Justification.md  \
   Hutton_Facilities_and_Equipment.md \
   Hutton_Results_from_Prior.md \
-  Hutton_CSDMS_2_References.md \
-	Hutton_CSDMS_2_Abstracts.md \
+  Hutton_Results_from_Prior_References.md \
 	Project_Personnel.md \
 	Data_Management_Plan.md \
 	Mentoring_Plan.md

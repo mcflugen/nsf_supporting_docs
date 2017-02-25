@@ -45,11 +45,11 @@ able to be run within the CSDMS modeling framework.
 
 ### Period of Performance
 
-16 July 2016 – 15 July 2020, in one-year increments.
+16 July 2017 – 15 July 2021, in one-year increments.
 
-### UW Project Manager
+### ASU Project Manager
 
-Professor Erkan Istanbulluoglu
+Professor Michael Barton
 
 ### Prime Sponsor
 

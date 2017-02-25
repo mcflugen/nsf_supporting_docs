@@ -1,4 +1,5 @@
 # Current and Pending Support for Eric Hutton
+
 ## Current Support
 
 **Computational Infrastructure for the Community Surface Dynamics Modeling Systems**
@@ -27,25 +28,9 @@
 *Period of Performance/Total Budget*: 1/7/2016 - 30/6/2020, $83k  
 *Commitment (months/year)*: 1.0  
 
-**The Earth Cube Integration Facility**
+**INFEWS/T1: Open source code and microservices software technology to develop next generation models for the food, energy, and water nexus (THIS PROPOSAL)**
 
-*Proposer name*: Albert Kettner (PI)  
+*Proposer name*: Michael Barton (PI)  
 *Program Name/Sponsoring Agency*: NSF - Geosciences and Computer and Information Science and Engineering  
-*Period of Performance/Total Budget*: 7/9/2016 - 31/8/2019, $3.5M  
-*Commitment (months/year)*: 1.0  
-
-**EarthCube Prototypes: Collaborative Proposal: FluidGlobe:  A Virtual Globe
-Environment to Accelerate Science with Seamless Integration of Geoscience Data
-and Models**
-
-*Proposer name*: Scott Peckham (PI), Eric Hutton (Co-I)  
-*Program Name/Sponsoring Agency*: NSF, Earth Cube Program/Initiative  
-*Period of Performance/Total Budget*: 7/9/2017 - 31/8/2019, $1.9M  
-*Commitment (months/year)*: 2.0  
-
-**Food-Energy-Water Systems in Mountainous Coastal Watersheds: Examining historical trajectories and the influence of human decisions (THIS PROPOSAL)**
-
-*Proposer name*: Erkan Istanbulluoglu (PI)  
-*Program Name/Sponsoring Agency*: NSF - Geosciences and Computer and Information Science and Engineering  
-*Period of Performance/Total Budget*: 16/9/2016 - 15/9/2020, $134k  
-*Commitment (months/year)*: 1.5  
+*Period of Performance/Total Budget*: 1/9/2017 - 31/8/2021, $400k  
+*Commitment (months/year)*: 2  
