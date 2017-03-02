@@ -19,11 +19,11 @@ _TEMPLATE = """
 
 {collaborators}
 
-### Graduate Advisors and Postdoctoral Sponsors ({number_of_advisors}) ###
+### Graduate Advisors ({number_of_advisors}) ###
 
 {advisors}
 
-### Thesis Advisor and Postdoctoral Sponsor ({number_of_advisees}) ###
+### PhD Advisor ({number_of_advisees}) ###
 
 {advisees}
 """.strip()
