@@ -32,5 +32,5 @@
 
 *Proposer name*: Michael Barton (PI)  
 *Program Name/Sponsoring Agency*: NSF - Geosciences and Computer and Information Science and Engineering  
-*Period of Performance/Total Budget*: 1/9/2017 - 31/8/2021, $400k  
-*Commitment (months/year)*: 2  
+*Period of Performance/Total Budget*: 1/9/2017 - 31/8/2021, $418k  
+*Commitment (months/year)*: 1.9  

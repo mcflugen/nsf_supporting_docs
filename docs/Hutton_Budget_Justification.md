@@ -1,34 +1,51 @@
 # Budget Justification
 
-## Software Engineer
+## Salary Support
 
-*2 months/y in years 1, 2, 3, and 4*
+Support is requested for Co-PI Tucker at 0.25 months/year to direct the
+activities of the Community Surface Dynamics Modeling System (CSDMS).
+Tucker is currently the Deputy Director of CSDMS, and will become
+Executive Director in October 2017.
 
-Requirements include experience with system software and surface dynamic
-modeling (delta and near-shore processes, in particular), model coupling,
-abilities in high level (e.g. IDL, Matlab) and operational level (e.g. C,
-C++, Fortran, Python) languages, grid and mesh generation, and numerical
-methods (e.g. Eulerian, Lagrangian, implicit/explicit solvers, finite
-difference, and finite element methods).
+Support is requested for a postdoctoral associate, Dr. Kimberly Rogers, for 3
+month(s) per year for each year of the project. The rate is calculated
+at the institutional base salary with an anticipated 3% annual increase
+throughout the project. Dr. Rogers will be responsible for identifying
+salient components of the human and physical systems necessary for model
+input and will communicate these with programmers and model developers
+to ensure these are appropriately represented in model code; she will
+also be responsible for evaluating and validating integrated model outputs.
 
-Eric Hutton is the Senior Software Engineer on the NSF-funded CSDMS
-(Community Surface Dynamics Modeling System) project. He has proven
-experience in multi-language codes, sediment transport and geophysical model
-development, and model coupling. Duties will include overseeing and
-coordinating the model development necessary to componentize the identified
-models so that they conform to the CSDMS model-coupling protocols.
+Support is also requested for a software engineer, Dr. Eric Hutton, at 1.95
+months in year 1 and 1.90 months for years 2, 3 and 4. Requirements
+include experience with system software and surface dynamic modeling
+(delta and near-shore processes, in particular), model coupling,
+abilities in high level (e.g. IDL, Matlab) and operational level
+(e.g. C, C++, Fortran, Python) languages, grid and mesh generation,
+and numerical methods (e.g. Eulerian, Lagrangian, implicit/explicit
+solvers, finite difference, and finite element methods).
 
-Dr. Hutton does not have an academic appointment and so receives all of his
-funding through grants. As a result, he receives more than 2 months of funding
-per year from NSF.
+Dr. Hutton is the Senior Software Engineer on the NSF-funded CSDMS (Community
+Surface Dynamics Modeling System) project. He has proven experience
+in multi-language codes, sediment transport and geophysical model
+development, and model coupling. Duties will include overseeing
+and coordinating the model development necessary to componentize
+the identified models so that they conform to the CSDMS model-coupling
+protocols.
+
+Dr. Rogers and Dr. Hutton does not have academic appointments and so
+receives all of their funding through grants. As a result, they request
+two or more months of funding per year from NSF.
+
 
 ## Travel
 
-Two trips to Tempe (round-trip airfare of $308; ground transportation of
-$103) in years 2, and 3 to attend an annual team meeting. Meetings will
-be three days with a day of travel to and from Denver and Tempe ($76 per diem
-for 4 days; 3 nights of lodging for $207 per night). Travel costs are
-budgeted to increase at a rate of 2.5% per year.
+Travel to Tempe (round-trip airfare of $250; ground transportation of
+$100) in years 2 (for Rogers and Hutton), and 3 (for Hutton) to attend
+an annual team meeting. Meetings will be three days with a day of
+travel to and from Denver and Tempe ($59 per diem for 5 days; 5 nights
+of lodging for $169 per night). Travel costs are budgeted to increase
+at a rate of 1.8% per year.
 
 ## Accounting Technician and System Administration
 
@@ -64,8 +81,8 @@ material.
 
 Fringe Benefits are calculated on requested salary per the University's
 federally negotiated Indirect Cost Rate Agreement, with the Department of
-Health and Human Services (DHHS). Applicable rates are 30% for academic
-faculty, 37.3% for research personnel, and 13.2% for graduate research
+Health and Human Services (DHHS). Applicable rates are 30.6% for academic
+faculty, 37.7% for research personnel, and 13.7% for graduate research
 assistants.
 
 ## Inflation
@@ -73,7 +90,7 @@ assistants.
 The University of Colorado's current budget planning parameters include an
 annual inflation factor of 3% for salaries for investigators, post-doctoral
 researchers, graduate research assistants, and hourly students. Tuition is
-estimated to increase 4% per year, fringe benefits are estimated to increase
-3.5% per year, and all other direct costs are estimated to increase 2.5% per
+estimated to increase 3% per year, fringe benefits are estimated to increase
+4.0% per year, and all other direct costs are estimated to increase 1.8% per
 year.
 

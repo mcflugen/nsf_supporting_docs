@@ -1,23 +1,35 @@
 # Statement of Work – University of Colorado Sub-Award
 
-## Food-Energy-Water Systems in Mountainous Coastal Watersheds: Examining historical trajectories and the influence of human decisions
+## INFEWS/T1: Open source code and microservices software technology to develop next generation models for the food, energy, and water nexus
 
 ### Senior Personnel: Eric W. H. Hutton, Institute of Arctic and Alpine Research, University of Colorado
 
-Dr. Hutton is a senior personnel on the proposed grant to the National Science
-Foundation, *Food-Energy-Water Systems in Mountainous Coastal Watersheds:
-Examining historical trajectories and the influence of human decisions*.
-NSF requires that funding for collaborating institutions be executed through
-a sub award under the Innovations at the Nexus of Food, Energy and Water
-Systems program.
+Dr Tucker and Dr Rogers are Co-Investigators, and Dr. Hutton is senior
+personnel on the proposed grant to the National Science Foundation,
+*INFEWS/T1: Open source code and microservices software
+technology to develop next generation models for the food, energy,
+and water nexus*.  NSF requires that funding for collaborating institutions
+be executed through a sub award under the Innovations at the Nexus of Food,
+Energy and Water Systems program.
 
 The University of Colorado will participate in the model development and
 coupling aspects of the proposed project.
 
+Dr. Tucker is currently the Deputy Director of CSDMS, and will become
+Executive Director in October 2017. He will coordinate CSDMS activities
+and contributions at the University of Colorado with the rest of the
+team at University of Arizona.
+
+Dr. Rogers  identify salient components of the human and physical systems
+necessary for model input and will communicate these with programmers
+and model developers to ensure these are appropriately represented in
+model code; she will also be responsible for evaluating and validating
+integrated model outputs.
+
 Over the course of the 4-year project Eric Hutton will supervise the
-coding work required to allow two (or more) models to dynamically exchange
-information during their runs, functioning essentially as a single coupled
-model. Tasks will include:
+coding work required to allow models to run within the microservices
+framework and that models conform and follow established CSDMS standards
+and protocols.  Tasks will include:
 
 -   Work with model developers to ensure their models conform to the CSDMS
     standards and protocols that allow them to be incorporated into the CSDMS
@@ -25,23 +37,20 @@ model. Tasks will include:
     http://csdms.colorado.edu/wiki/BMI_Description).
 -   Ensure model compatibility through data exchange items.
 -   Aid in design of the integrative Food-Energy-Water modeling framework,
-    particularly a model coupler algorithm that uses existing coupling tools
-    from the CSDMS.
 -   Evaluation of model code performance
--   Components and couplings are available through the CSDMS Component Modeling
-    Tool.
--   Organization of model source code within open source repositories (source
-    code will be housed on GitHub).
 
 ### Milestones in the project
 
-*Year 1*: Attend kick-off meeting.  
-*Year 2*: Models will be wrapped with a Basic Modeling Interface so that they
-can operate within the CSDMS framework.  All source code will be publicly
-available on GitHub (or similar).  
-*Year 3*: Begin coupled simulations of the models. Simulations will be
-able to be run within the CSDMS modeling framework.  
-*Year 4*: Final coupling of simulations of the models.
+*Year 1*: Attend kick-off meeting.  Work with ASU team to establish
+protocols for microservice communication. Begin wrapping of the VIC
+model to expose a BMI.
+*Year 2*: Attend annual team meeting at ASU. Support necessary refactoring
+of selected models so that they can be turned into microservices.  Ensure
+compatibility with CSDMS framework.  
+*Year 3*: Attend annual team meeting at ASU. Aid with coupled simulations
+of the models and model development.  
+*Year 4*: Attend final annual meeting. Aid with final coupling of
+simulations of the models.
 
 ### Period of Performance
 
