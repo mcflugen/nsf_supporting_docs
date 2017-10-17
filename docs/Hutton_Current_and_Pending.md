@@ -18,9 +18,6 @@
 *Period of Performance/Total Budget*: 15/3/2016 - 28/2/2018, $20k  
 *Commitment (months/year)*: 0.5  
 
-
-## Pending Awards   
-
 **CNH-L: Climate Change Adaptation in a Coupled Geomorphic-Economic Coastal System**
 
 *Proposer name*: Dylan McNamara (PI), Eric Hutton (Co-I)  
@@ -28,9 +25,14 @@
 *Period of Performance/Total Budget*: 1/7/2016 - 30/6/2020, $83k  
 *Commitment (months/year)*: 1.0  
 
-**INFEWS/T1: Open source code and microservices software technology to develop next generation models for the food, energy, and water nexus (THIS PROPOSAL)**
 
-*Proposer name*: Michael Barton (PI)  
-*Program Name/Sponsoring Agency*: NSF - Geosciences and Computer and Information Science and Engineering  
-*Period of Performance/Total Budget*: 1/9/2017 - 31/8/2021, $400k  
-*Commitment (months/year)*: 2  
+## Pending Awards   
+
+**Collaborative Research: Alpine glacial reconstructions and high-elevation
+climate implications in the mid-latitudes of western North and South America
+(THIS PROPOSAL)**
+
+*Proposer name*: Shaun Marcott (PI)  
+*Program Name/Sponsoring Agency*: NSF - Paleo Perspectives on Climate Change
+*Period of Performance/Total Budget*: 1/6/2018 - 31/5/2021, $400k  
+*Commitment (months/year)*: .67
