@@ -9,7 +9,7 @@ markdown files to Word.
 Solicitation
 ------------
 
-URL: https://www.nsf.gov/pubs/2017/nsf17530/nsf17530.htm
-Number: 17-530 
-Start date: 16 September 2017 
-End date: 15 September 2021
+URL: https://www.nsf.gov/pubs/2017/nsf17582/nsf17582.htm
+Number: 17-582
+Start date: 1 June 2018
+End date: 31 May 2021
