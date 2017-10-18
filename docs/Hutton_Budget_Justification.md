@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-*2 months/y in years 1, 2, 3, and 4*
+*1 month/y in year 1; .5 months/y in year 2, 3*
 
 Requirements include experience with system software and surface dynamic
 modeling (delta and near-shore processes, in particular), model coupling,
@@ -18,19 +18,11 @@ development, and model coupling. Duties will include overseeing and
 coordinating the model development necessary to componentize the identified
 models so that they conform to the CSDMS model-coupling protocols.
 
-Dr. Hutton does not have an academic appointment and so receives all of his
-funding through grants. As a result, he receives more than 2 months of funding
-per year from NSF.
-
-## Travel
-
-Two trips to Tempe (round-trip airfare of $308; ground transportation of
-$103) in years 2, and 3 to attend an annual team meeting. Meetings will
-be three days with a day of travel to and from Denver and Tempe ($76 per diem
-for 4 days; 3 nights of lodging for $207 per night). Travel costs are
-budgeted to increase at a rate of 2.5% per year.
 
 ## Accounting Technician and System Administration
+
+*System Administration: .024 months/y in years 1, 2, and 3*  
+*Accounting Specialist: .084 months/y in years 1, 2, and 3*
 
 Partial salary is requested for technical assistance to support the executing,
 administration and accounting of Center activities. INSTAAR is a unique unit
@@ -42,24 +34,6 @@ investigator has access to a depth and broad range of scientific expertise
 that complements his/her research. The system Administrator is responsible for
 the IT needs of the project.
 
-## Indirect Costs
-
-Indirect costs are charged according to our federally negotiated rate
-agreement. The indirect cost rate for on-campus research is 53.5% of Modified
-Total Direct Cost (MTDC), predetermined for the period 7/1/2015-6/30/2016;
-54% MTDC, predetermined for the period 7/1/2016-6/30/2018; provisional
-thereafter per HHS agreement dated 7/20/2015.
-
-*Communication, Duplication & Postage*: includes such items as toll calls,
-postage, fax charges, telephone lines, and photocopies that specifically
-support this project. The University of Colorado maintains telecommunication
-services that include the capability of tracking expenses to specific projects.
-INSTAAR maintains photocopy services that include capability of tracking
-expenses to specific projects.  The project includes co-investigators in other
-states, and will be working with scientists from around the world. Activities
-will include surface mail, fax, teleconferencing, and duplication of shared
-material.
-
 ## Fringe Benefits
 
 Fringe Benefits are calculated on requested salary per the University's
@@ -68,12 +42,22 @@ Health and Human Services (DHHS). Applicable rates are 30% for academic
 faculty, 37.3% for research personnel, and 13.2% for graduate research
 assistants.
 
+## Facilities and Administration (F&A) Costs
+
+Facilities and administration (F&A) costs are charged according to the
+University’s federally negotiated rate agreement. The F&A cost rate
+for on-campus research is 53% of Modified Total Direct Cost (MTDC),
+predetermined for the period 7/1/14 - 6/30/15, 53.5% of MTDC,
+predetermined for the period 7/1/15 - 6/30/16; 54% MTDC, predetermined
+for the period 7/1/16 - 6/30/18; provisional thereafter per HHS
+agreement dated 07/27/2017.
+
 ## Inflation
 
-The University of Colorado's current budget planning parameters include an
-annual inflation factor of 3% for salaries for investigators, post-doctoral
-researchers, graduate research assistants, and hourly students. Tuition is
-estimated to increase 4% per year, fringe benefits are estimated to increase
-3.5% per year, and all other direct costs are estimated to increase 2.5% per
-year.
-
+The University of Colorado’s current budget planning parameters
+include an annual inflation factor of 3% for salaries of investigators,
+post-doctoral researchers, graduate research assistant, and hourly
+students. Tuition is estimated to increase 3% per year, fringe
+benefits are estimated to increase 4% per year, and other direct
+costs such as travel, can be inflated at 2.3% per year (inflation
+of other direct costs is optional).
