@@ -30,9 +30,9 @@
 
 **Collaborative Research: Alpine glacial reconstructions and high-elevation
 climate implications in the mid-latitudes of western North and South America
-(THIS PROPOSAL)**
+during the late Holocene (THIS PROPOSAL)**
 
 *Proposer name*: Shaun Marcott (PI)  
 *Program Name/Sponsoring Agency*: NSF - Paleo Perspectives on Climate Change
-*Period of Performance/Total Budget*: 6/1/2018 - 5/31/2021, $42k  
+*Period of Performance/Total Budget*: 7/1/2018 - 6/30/2021, $42k  
 *Commitment (months/year)*: .67
