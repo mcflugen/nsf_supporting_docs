@@ -7,6 +7,15 @@ A comprehensive Research 1 public university, CU Boulder campus has a long
 relationships with nearby national research laboratories including NIST, NOAA,
 NCAR/UCAR, USGS, and NREL, as well as numerous industry partners.
 
+
+## Community Surface Dynamics Modeling System
+
+Professor Greg Tucker is the directory of the NSF-funded CSDMS
+(Community Surface Dynamics Modeling System) and the lead investigator
+of the landlab project. He will coordinate interactions with the
+investigators of this proposal and both CSDMS and landlab.
+
+
 ## Computing
 
 The CSDMS High Performance Computing Cluster (HPCC) beach.colorado.edu is an
