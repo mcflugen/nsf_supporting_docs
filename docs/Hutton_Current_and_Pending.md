@@ -28,9 +28,17 @@
 
 ## Pending Awards   
 
+**RAPID: Building Infrastructure to Prevent Disasters like Hurricane Maria
+(THIS PROPOSAL)**
+
+*Proposer name*: Christina Bandaragoda (PI)  
+*Program Name/Sponsoring Agency*: NSF - OAC - Cyberinfrastructure
+*Period of Performance/Total Budget*: 11/15/2017 - 11/14/2018, $14,807  
+*Commitment (months/year)*: .5
+
 **Collaborative Research: Alpine glacial reconstructions and high-elevation
 climate implications in the mid-latitudes of western North and South America
-during the late Holocene (THIS PROPOSAL)**
+during the late Holocene**
 
 *Proposer name*: Shaun Marcott (PI)  
 *Program Name/Sponsoring Agency*: NSF - Paleo Perspectives on Climate Change
