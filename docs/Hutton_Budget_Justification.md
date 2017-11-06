@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-*1 month/y in year 1; .5 months/y in year 2, 3*
+*2 month/y in year 1; 1 months/y in year 2, 3*
 
 Requirements include experience with system software and surface dynamic
 modeling (delta and near-shore processes, in particular), model coupling,
@@ -12,17 +12,20 @@ methods (e.g. Eulerian, Lagrangian, implicit/explicit solvers, finite
 difference, and finite element methods).
 
 Eric Hutton is the Senior Software Engineer on the NSF-funded CSDMS
-(Community Surface Dynamics Modeling System) project. He has proven
-experience in multi-language codes, sediment transport and geophysical model
-development, and model coupling. Duties will include overseeing and
-coordinating the model development necessary to componentize the identified
-models so that they conform to the CSDMS model-coupling protocols.
+(Community Surface Dynamics Modeling System) project. He is also
+a lead software architect for the NSF-funded *landlab* project.
+He has proven experience in multi-language codes, sediment
+transport and geophysical model development, and model coupling.
+Duties will include overseeing and coordinating the model development
+necessary to componentize the identified models so that they conform to the CSDMS model-coupling protocols and to bring them into the landlab programming
+framework. He will additionally, translate *rift2d* (Fortran) into Python
+using the *landlab* modeling tools.
 
 
 ## Accounting Technician and System Administration
 
-*System Administration: .024 months/y in years 1, 2, and 3*  
-*Accounting Specialist: .084 months/y in years 1, 2, and 3*
+*System Administration: .0028 months/y in years 1, 2, and 3*  
+*Accounting Specialist: .0099 months/y in years 1, 2, and 3*
 
 Partial salary is requested for technical assistance to support the executing,
 administration and accounting of Center activities. INSTAAR is a unique unit
