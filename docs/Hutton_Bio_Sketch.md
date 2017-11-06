@@ -56,20 +56,17 @@
 
 ## Synergistic Activities
 
-### Community Standards for Model Coupling
-
-1.  *BMI: A Basic Modeling Interface Standard, Version 0.9*. The Community
-    Surface Dynamics Modeling System,
-    http://csdms.colorado.edu/wiki/BMI_Description.
-2.  *CSDMS Standard Names: A Model Variable Naming Standard, Version 0.9*. The
-    Community Surface Dynamics Modeling System,
-    http://csdms.colorado.edu/wiki/CSDMS_Standard_Names.
-
-### Model-Coupling Education Through Short Courses and Conference Sessions
-
-3.  *Plug-and-play Modeling with the Web Modeling Tool*. Two-hour short-course.
-    CSDMS Conference 2014, Boulder, Colorado, USA.
-4.  *Modeling coupled processes with sedflux*. Two-hour short-course. CSDMS
-    Conference 2011, Boulder, Colorado, USA.
-5.  *Earth-Surface Dynamics Modeling: Model Coupling*.  Two-hour short-course.
-    RCEM Conference 2009, Santa Fe, Argentina.
+1.  **Community Standards for Model Coupling**
+    *   *BMI: A Basic Modeling Interface Standard, Version 0.9*. The Community
+        Surface Dynamics Modeling System,
+        http://csdms.colorado.edu/wiki/BMI_Description.
+    *   *CSDMS Standard Names: A Model Variable Naming Standard, Version
+        0.9*. The Community Surface Dynamics Modeling System,
+        http://csdms.colorado.edu/wiki/CSDMS_Standard_Names.
+2.  **Model-Coupling Education Through Short Courses and Conference Sessions**
+    *   *Plug-and-play Modeling with the Web Modeling Tool*. Two-hour short-course.
+        CSDMS Conference 2014, Boulder, Colorado, USA.
+    *   *Modeling coupled processes with sedflux*. Two-hour short-course. CSDMS
+        Conference 2011, Boulder, Colorado, USA.
+    *   *Earth-Surface Dynamics Modeling: Model Coupling*.  Two-hour short-course.
+        RCEM Conference 2009, Santa Fe, Argentina.
