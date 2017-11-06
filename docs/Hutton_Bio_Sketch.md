@@ -27,13 +27,15 @@
 1.  E. W. H. Hutton.  *CSDMS Model Coupling Framework (Version 0.9)*.  CSDMS,
     Boulder, Colorado, 2008-2014. [Computer Software].
     URL: https://github.com/csdms/coupling.
-1.  E. W. H. Hutton and M. D. Piper.  *CSDMS Web Modeling Tools (Version 0.9)*.
-    CSDMS, Boulder, Colorado, 2014. [Computer Software].
-    URL: https://github.com/csdms/wmt.
 1.  S. D. Peckham, E. W. Hutton, and B. Norris. 2013. *A component-based
     approach to integrated modeling in the geosciences: The design of CSDMS*.
     Computers & Geosciences, 53(0):3 – 12. Modeling for Environmental Change.
     doi:10.1016/j.cageo.2012.04.002.
+1.  Hobley, D.E., Adams, J.M., Nudurupati, S.S., Hutton, E.W.,
+    Gasparini, N.M., Istanbulluoglu, E. and Tucker, G.E., 2017. *Creative
+    computing with Landlab: an open-source toolkit for building, coupling,
+    and exploring two-dimensional numerical models of Earth-surface
+    dynamics*. Earth Surface Dynamics, 5(1), p.21.
 
 ## Other Products
 
