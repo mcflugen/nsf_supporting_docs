@@ -1,6 +1,6 @@
 # Results from Prior NSF Support: Hutton
 
-*NSF-EAR 1226297 GEO/BIO/ACI*: $4.5M (10/01/12 - 9/31/17)  
+*NSF-EAR 1226297 GEO/BIO/ACI*: $4.5M (10/01/12 - 9/31/18)  
 *Title*: Computational Infrastructure for the Community Surface Dynamics Modeling System  
 *PI*: J.P.M. Syvitski; Senior Personnel: E. Hutton (and others).
 
