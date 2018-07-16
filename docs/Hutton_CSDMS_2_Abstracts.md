@@ -1,11 +1,16 @@
 # Abstracts Resulting from the CSDMS-2.0 Award
 
 1.  Adams, JM, NM Gasparini, GE Tucker, E Istanbulluoglu, EWH Hutton, DE Hobley, and S Nudurupati.  Modeling wildfire and hydrologic response to global climate change using the landlab modeling environment. AGU Fall Meeting Abstracts, 1:0847, 2013.
+
 1.  Ashton, AD, Nienhuis, J, Ortiz, AC, Trueba, JL, Giosan, L, Kettner, AJ, Xing, F, 2013. Effects of marine reworking and sea-level rise on deltas of the 21st century, AGU, San Francisco, CA, USA.
+
 1.  Backus, L, Giordanengo, J, Sacatoro, I, Kettner, AJ, Koch, M, Walsh, J, Fried, L, 2013. Cloud forest restoration for erosion control in a Kichwa community of the Ecuadorian central Andes Mountains, AGU, San Francisco, CA, USA.
 1.  Barnhart, K, Overeem, I, Anderson, R.S., 2013. Influence of the sea-ice edge on the Arctic nearshore environment. AGU Annual Meeting, San Francisco, Dec 9-13, 2013.
+
 1.  Best, J, Cohen, S., Syvitski, JPM, 2014, Spatiotemporal trends in fluid density at confluences of large rivers, World’s Large River Conference 2014, Brazil.
+
 1.  Birchler, JJ; Harris, CK; Arango, HG; Hutton, EW; Jenkins, CJ; Delivery of sediment to the continental slope: numerical modeling tools for the northern Gulf of Mexico. ASLO AGU Ocean Sciences Meeting 2014, 23-28 February 2014, Honolulu, Hawaii USA, Abstract ID: 16630.
+
 1.  Brakenridge, GR, Syvitski, J, Quaternary Geoscience and Flood hazard. Geological Society of America Annual Meeting, 27-30 Oct., 2013. Denver, CO, USA.
 1.  Chen, Y, I Overeem, A Kettner, S Gao, JPM Syvitski 2014, Modeling Flood Dynamics Along the SuperElevated Channel Belt of the Yellow River, China, over the Last 3,000 Years, EP44A-02, 2014 Fall Meeting, AGU, San Francisco, Calif., 15-19 Dec
 1.  Cohen, S, Kettner, AJ, Syvitski, JPM, 2013. Anthropogenic effects on global riverine sediment and water discharge - a spatially explicit analysis, AGU, San Francisco, CA, USA.

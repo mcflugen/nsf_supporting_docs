@@ -11,7 +11,9 @@
 1.  Cohen, S., Kettner, A.J., and Syvitski, J.P.M., 2014. Global Suspended Sediment and Water Discharge Dynamics Between 1960-2010: Continental trends and intra-basin sensitivity.  Global and Planetary Change, 115, 44-58.
 1.  Cohen, S., Kettner AJ, Syvitski, JPM and Fekete BM, 2013, WBMsed: a distributed global-scale daily riverine sediment flux model: Model description and validation. Computers & Geosciences 53: 80-93.
 1.  De Winter, I., Storms, J., Overeem, I., 2012. Numerical modeling of glacial sediment production and transport during deglaciation. Geomorphology. 167-168: 102-104.
+
 1.  Fekete, B. M., Lammers, R. B., and Brakenridge, G. R., 2012, River discharge, in "State of the Climate in 2011", Special Supplement to the Bulletin of the American Meteorological Society, 93, 7, Chapter 2, p. S28-S29.
+
 1.  Foufoula-Georgiou, E., Overeem, I., Saito, Y., et al., 2013. A vision for a coordinated international effort on delta sustainability. IAHS Extended Abstract, Gothenburg, Sweden, July 2013.
 1.  Gao, J.H., Jia, J., Kettner, A.J., Xing, F., Wang, Y.P., Xu, X.-N., Yang, Y., Zou, X.Q., Gao, S., Qi, S., and Liao, F., 2014. Changes in water and sediment exchange between the Changjiang River and Poyang Lake under natural and anthropogenic conditions, China. Science of the Total Environment, 481, 542-553.
 1.  Giosan, L., Syvitski, J, Constantinescu, S, Day, J, 2014, Protect the world’s deltas, Nature 516: 31-33.
@@ -29,7 +31,9 @@
 1.  Overeem, I., Berlin, M., Syvitski, J.P.M., 2013. Strategies for Integrated Modeling: the Community Surface Dynamics Modeling System Example. Environmental Modeling & Software, 39, 314-321.
 1.  Peckham, S.D. and Goodall J.L. 2013, Driving plug-and-play models with data from web-services: A demonstration of interoperability between CSDMS and CUAHSI-HIS. Computers & Geosciences 53: 154-161
 1.  Peckham, S.D., E.W.H. Hutton and Norris B. 2013, A component-based approach to integrated modeling in the geosciences: The Design of CSDMS, Computers & Geosciences 53: 3-12.
+
 1.  Pinskwar, I., Kundzewicz, Z. W., Peduzzi, P., Brakenridge, G.R., Stahl, K., Hannaford, J., 2012, Changing floods in Europe. In: Kundzewicz, Z. W. (ed.), “Changes in Flood Risk in Europe”, Special Publication No. 10, IAHS Press, Wallingford, Oxfordshire, UK, p. 83-95.
+
 1.  Renaud, F, Syvitski JPM, Sebesvari Z, Werners SE, Kremer H, Kuenzer C, Ramesh R, Jeuken A, Friedrich J.  2013. Tipping from the Holocene to the Anthropocene: how threatened are major world deltas? Current Opinion in Environmental Sustainability 5: 644 – 654.
 1.  Restrepo, J.D., and Kettner, A.J., 2012. Human induced discharge diversion in a tropical delta and its environmental implications: the Patía River, Colombia. Journal of Hydrology, 424-425, 124-142.
 1.  Rogers, KG, Syvitski, JPM, Overeem, I, Higgins, S, & Gilligan, J, 2013, Farming Practices and Anthropogenic Delta Dynamics, Proceedings of IAHS-IAPSO-IASPEI Assembly, Gothenburg, Sweden, 358:133-142.

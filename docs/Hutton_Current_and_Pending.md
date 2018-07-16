@@ -6,17 +6,9 @@
 
 *Proposer name*: J.P.M. Syvitski (PI)  
 *Award number*: 1226297  
-*Program Name/Sponsoring Agency*: NSF/Geoinformatics  
+*Program Name/Sponsoring Agency*: NSF - Geoinformatics  
 *Period of Performance/Total Budget*: 10/15/12 – 9/30/18, $3.4M  
-*Commitment (months/year)*: 1.67  
-
-**Tectonics in the Western Anatolia Extensional Province from sequence stratigraphic modeling of multichannel seismic data in the Gulf of Kusadasi**
-
-*Proposer name*: Michael Steckler (PI), Eric Hutton (Co-I)  
-*Award number*: 1559098  
-*Program Name/Sponsoring Agency*: NSF - Marine Geology and Geophysics  
-*Period of Performance/Total Budget*: 3/15/2016 - 2/28/2018, $20k  
-*Commitment (months/year)*: 0.5  
+*Commitment (months/year)*: 9
 
 **CNH-L: Climate Change Adaptation in a Coupled Geomorphic-Economic Coastal System**
 
@@ -26,15 +18,21 @@
 *Period of Performance/Total Budget*: 7/1/2016 - 6/30/2020, $83k  
 *Commitment (months/year)*: 1.0  
 
+**RAPID: Building Infrastructure to Prevent Disasters like Hurricane Maria**
+
+*Proposer name*: Christina Bandaragoda (PI)  
+*Program Name/Sponsoring Agency*: NSF - OAC - Cyberinfrastructure  
+*Period of Performance/Total Budget*: 11/15/2017 - 11/14/2018, $14,807 
+*Commitment (months/year)*: .5
 
 ## Pending Awards   
 
-**Collaborative Research: Exploring the Sedimentological and Geomorphic Controls on the Distribution of Offshore Freshwater/Brackish Water Resources (THIS PROPOSAL)**
+**Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS) (THIS PROPOSAL)**
 
-*Proposer name*: Mark Person (PI)  
-*Program Name/Sponsoring Agency*: NSF - IES - Integrated Earth Systems  
-*Period of Performance/Total Budget*: 6/1/2018 - 5/31/2021, $114,399k  
-*Commitment (months/year)*: 1.33
+*Proposer name*: Greg Tucker (PI), Eric Hutton and others (Co-I)  
+*Program Name/Sponsoring Agency*: NSF - Earth Sciences: Instrumentation and Facilities (EAR/IF)
+*Period of Performance/Total Budget*: 10/1/2018 - 9/30/2023, $8.6M
+*Commitment (months/year)*: 11
 
 **Collaborative Research: Alpine glacial reconstructions and high-elevation
 climate implications in the mid-latitudes of western North and South America
@@ -44,10 +42,3 @@ during the late Holocene**
 *Program Name/Sponsoring Agency*: NSF - Paleo Perspectives on Climate Change  
 *Period of Performance/Total Budget*: 7/1/2018 - 6/30/2021, $42k  
 *Commitment (months/year)*: .67
-
-**RAPID: Building Infrastructure to Prevent Disasters like Hurricane Maria**
-
-*Proposer name*: Christina Bandaragoda (PI)  
-*Program Name/Sponsoring Agency*: NSF - OAC - Cyberinfrastructure  
-*Period of Performance/Total Budget*: 11/15/2017 - 11/14/2018, $14,807 
-*Commitment (months/year)*: .5
