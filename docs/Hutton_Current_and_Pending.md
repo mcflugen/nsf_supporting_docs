@@ -22,23 +22,22 @@
 
 *Proposer name*: Christina Bandaragoda (PI)  
 *Program Name/Sponsoring Agency*: NSF - OAC - Cyberinfrastructure  
-*Period of Performance/Total Budget*: 11/15/2017 - 11/14/2018, $14,807 
+*Period of Performance/Total Budget*: 11/15/2017 - 11/14/2018, $14,807  
 *Commitment (months/year)*: .5
 
 ## Pending Awards   
 
-**Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS) (THIS PROPOSAL)**
+**Unifying models of fluvial landscape evolution across scales (THIS PROPOSAL)** 
+
+*Proposer name*: Andrew Wickert (PI), Eric Hutton (Senior Personnel)  
+*Program Name/Sponsoring Agency*: NSF - Faculty Early Career Development Program (CAREER)  
+*Period of Performance/Total Budget*: 7/1/2019 - 6/30/2024, $60k  
+*Commitment (months/year)*: .55
+
+
+**Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS)**
 
 *Proposer name*: Greg Tucker (PI), Eric Hutton and others (Co-I)  
-*Program Name/Sponsoring Agency*: NSF - Earth Sciences: Instrumentation and Facilities (EAR/IF)
-*Period of Performance/Total Budget*: 10/1/2018 - 9/30/2023, $8.6M
+*Program Name/Sponsoring Agency*: NSF - Earth Sciences: Instrumentation and Facilities (EAR/IF)  
+*Period of Performance/Total Budget*: 10/1/2018 - 9/30/2023, $8.6M  
 *Commitment (months/year)*: 11
-
-**Collaborative Research: Alpine glacial reconstructions and high-elevation
-climate implications in the mid-latitudes of western North and South America
-during the late Holocene**
-
-*Proposer name*: Shaun Marcott (PI)  
-*Program Name/Sponsoring Agency*: NSF - Paleo Perspectives on Climate Change  
-*Period of Performance/Total Budget*: 7/1/2018 - 6/30/2021, $42k  
-*Commitment (months/year)*: .67
