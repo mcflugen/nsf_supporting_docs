@@ -2,13 +2,13 @@
 
 ## Current Support
 
-**Computational Infrastructure for the Community Surface Dynamics Modeling Systems**
+**Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS)**
 
-*Proposer name*: J.P.M. Syvitski (PI)  
-*Award number*: 1226297  
-*Program Name/Sponsoring Agency*: NSF - Geoinformatics  
-*Period of Performance/Total Budget*: 10/15/12 – 9/30/18, $3.4M  
-*Commitment (months/year)*: 9
+*Proposer name*: Greg Tucker (PI), Eric Hutton and others (Co-I)  
+*Program Name/Sponsoring Agency*: NSF - Earth Sciences: Instrumentation and Facilities (EAR/IF)  
+*Period of Performance/Total Budget*: 10/1/2018 - 9/30/2021, $3.6M  
+*Commitment (months/year)*: 11.0
+
 
 **CNH-L: Climate Change Adaptation in a Coupled Geomorphic-Economic Coastal System**
 
@@ -18,26 +18,13 @@
 *Period of Performance/Total Budget*: 7/1/2016 - 6/30/2020, $83k  
 *Commitment (months/year)*: 1.0  
 
-**RAPID: Building Infrastructure to Prevent Disasters like Hurricane Maria**
-
-*Proposer name*: Christina Bandaragoda (PI)  
-*Program Name/Sponsoring Agency*: NSF - OAC - Cyberinfrastructure  
-*Period of Performance/Total Budget*: 11/15/2017 - 11/14/2018, $14,807  
-*Commitment (months/year)*: .5
 
 ## Pending Awards   
 
-**Unifying models of fluvial landscape evolution across scales (THIS PROPOSAL)** 
-
-*Proposer name*: Andrew Wickert (PI), Eric Hutton (Senior Personnel)  
-*Program Name/Sponsoring Agency*: NSF - Faculty Early Career Development Program (CAREER)  
-*Period of Performance/Total Budget*: 7/1/2019 - 6/30/2024, $60k  
-*Commitment (months/year)*: .55
+**Collaborative Research: Exploring the linkages between Sea-Level Change, Sediment Transport and Geomorphology on Coastal  Freshwater Water Sequestration (THIS PROPOSAL)**
 
 
-**Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS)**
-
-*Proposer name*: Greg Tucker (PI), Eric Hutton and others (Co-I)  
-*Program Name/Sponsoring Agency*: NSF - Earth Sciences: Instrumentation and Facilities (EAR/IF)  
-*Period of Performance/Total Budget*: 10/1/2018 - 9/30/2023, $8.6M  
-*Commitment (months/year)*: 11
+*Proposer name*: Mark Person (PI)  
+*Program Name/Sponsoring Agency*: NSF - FRES - Frontiers in Earth Sciences  
+*Period of Performance/Total Budget*: 8/1/2019 - 7/30/2022, $92,477  
+*Commitment (months/year)*: 1.33
