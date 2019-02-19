@@ -1,6 +1,8 @@
 # Budget Justification
 
-## Software Engineer
+## Personnel
+
+### Eric Hutton
 
 *2 months in year 1; 1 month/year in years 2 and 3*
 
@@ -17,12 +19,23 @@ a lead software architect for the NSF-funded *landlab* project.
 He has proven experience in multi-language codes, sediment
 transport and geophysical model development, and model coupling.
 Duties will include overseeing and coordinating the model development
-necessary to componentize the identified models so that they conform to the CSDMS model-coupling protocols and to bring them into the landlab programming
+necessary to componentize the identified models so that they conform to the
+CSDMS model-coupling protocols and to bring them into the landlab programming
 framework. He will additionally, translate *rift2d* (Fortran) into Python
 using the *landlab* modeling tools.
 
 
-## Accounting Technician and System Administration
+*Because Hutton has multiple proposals currently funded  with NSF, if his
+appointment should exceed fully funded he will redistribute some of these
+tasks to other assigned personnel.*
+
+*Hutton is a non-tenure track faculty and is funded on soft money. Due to nature
+of the work assigned to the PI, we are requesting salary commensurate with
+the level of effort required, and in excess of NSF’s normal allowance of two
+months per investigator designated as senior personnel across all funded NSF
+projects.*
+
+### Accounting Technician and System Administration
 
 *System Administration: .0348 months/y in years 1, 2, and 3*  
 *Accounting Specialist: .115 months/y in years 1, 2, and 3*
@@ -37,13 +50,17 @@ investigator has access to a depth and broad range of scientific expertise
 that complements his/her research. The system Administrator is responsible for
 the IT needs of the project.
 
+CU Boulder’s definition of a year is based on the University fiscal year, July 1
+through June 30.
+
 ## Fringe Benefits
 
-Fringe Benefits are calculated on requested salary per the University's
-federally negotiated Indirect Cost Rate Agreement, with the Department of
-Health and Human Services (DHHS). Applicable rates are 36.6% for academic
-faculty, 37.6% for research personnel, and 13.2% for graduate research
-assistants.
+Fringe benefits are calculated on requested salary per the University’s
+federally negotiated Rate Agreement with the Department of Health and Human
+Services (DHHS). The rate used for the PI is 29.9%; the rate used for
+research personnel is 36.6%; the rate used for graduate research assistants
+is 12.0%, and the rate used for hourly employees is 0.8%.
+
 
 ## Travel
 
@@ -70,12 +87,27 @@ predetermined for the period 7/1/15 - 6/30/16; 54% MTDC, predetermined
 for the period 7/1/16 - 6/30/18; provisional thereafter per HHS
 agreement dated 07/27/2017.
 
+
+Facilities and administration (F&A) costs are charged according to the
+University’s federally negotiated rate agreement. The F&A cost rate
+for on-campus research is 53% of Modified Total Direct Cost (MTDC),
+predetermined for the period 7/1/14 - 6/30/15, 53.5% of MTDC,
+predetermined for the period 7/1/15 - 6/30/16; 54% MTDC, predetermined
+for the period 7/1/16 - 6/30/18; provisional thereafter per HHS
+agreement dated 06/01/2018.
+
+F&A MTDC Base = $60,050
+
+F&A Total Cost = $32,427
+
+
 ## Inflation
 
 The University of Colorado’s current budget planning parameters
 include an annual inflation factor of 3% for salaries of investigators,
 post-doctoral researchers, graduate research assistant, and hourly
 students. Tuition is estimated to increase 3% per year, fringe
-benefits are estimated to increase 4% per year, and other direct
-costs such as travel, can be inflated at 2.3% per year (inflation
+benefits are estimated to increase 2% per year, and other direct
+costs such as travel, can be inflated at 2.4% per year (inflation
 of other direct costs is optional).
+
