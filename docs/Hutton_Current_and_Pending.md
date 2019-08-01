@@ -19,12 +19,30 @@
 *Commitment (months/year)*: 1.0  
 
 
-## Pending Awards   
-
-**Collaborative Research: Exploring the linkages between Sea-Level Change, Sediment Transport and Geomorphology on Coastal  Freshwater Water Sequestration (THIS PROPOSAL)**
-
+**Collaborative Research: Exploring the linkages between Sea-Level Change,
+Sediment Transport and Geomorphology on Coastal  Freshwater Water Sequestration**
 
 *Proposer name*: Mark Person (PI)  
 *Program Name/Sponsoring Agency*: NSF - FRES - Frontiers in Earth Sciences  
 *Period of Performance/Total Budget*: 8/1/2019 - 7/30/2022, $92,477  
 *Commitment (months/year)*: 1.33
+
+
+## Pending Awards   
+
+**Collaborative Research: Building open source modeling infrastructure to
+explore the co-evolution of earth’s surface and interior (THIS PROPOSAL)**
+
+*Proposer name*: Greg Tucker (PI)  
+*Program Name/Sponsoring Agency*: NSF - Geoinformatics  
+*Period of Performance/Total Budget*: 4/1/2020 - 3/31/2023, $93,600  
+*Commitment (months/year)*: 1.0
+
+
+**Collaborative Research: Building open source modeling infrastructure to
+explore the co-evolution of earth’s surface and interior**
+
+*Proposer name*: Katy Barnhart (PI)  
+*Program Name/Sponsoring Agency*: NSF - Geoinformatics  
+*Period of Performance/Total Budget*: 4/1/2020 - 3/31/2023, $385,475  
+*Commitment (months/year)*: 2 in years one and two, 1 in year three
