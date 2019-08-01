@@ -31,7 +31,7 @@ Sediment Transport and Geomorphology on Coastal  Freshwater Water Sequestration*
 ## Pending Awards   
 
 **Collaborative Research: Building open source modeling infrastructure to
-explore the co-evolution of earth’s surface and interior (THIS PROPOSAL)**
+explore the co-evolution of earth’s surface and interior**
 
 *Proposer name*: Greg Tucker (PI)  
 *Program Name/Sponsoring Agency*: NSF - Geoinformatics  
@@ -40,7 +40,7 @@ explore the co-evolution of earth’s surface and interior (THIS PROPOSAL)**
 
 
 **Collaborative Research: Building open source modeling infrastructure to
-explore the co-evolution of earth’s surface and interior**
+explore the co-evolution of earth’s surface and interior (THIS PROPOSAL)**
 
 *Proposer name*: Katy Barnhart (PI)  
 *Program Name/Sponsoring Agency*: NSF - Geoinformatics  
