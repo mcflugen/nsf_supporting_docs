@@ -40,9 +40,16 @@ explore the co-evolution of earth’s surface and interior**
 
 
 **Collaborative Research: Building open source modeling infrastructure to
-explore the co-evolution of earth’s surface and interior (THIS PROPOSAL)**
+explore the co-evolution of earth’s surface and interior**
 
 *Proposer name*: Katy Barnhart (PI)  
 *Program Name/Sponsoring Agency*: NSF - Geoinformatics  
 *Period of Performance/Total Budget*: 4/1/2020 - 3/31/2023, $385,475  
 *Commitment (months/year)*: 2 in years one and two, 1 in year three
+
+**Frameworks: Collaborative Research: An Integrative Cyberinfrastructure Framework for Next Generation Modeling Science (THIS_PROJECT)**
+
+*Proposer name*: Albert Kettner (PI)  
+*Program Name/Sponsoring Agency*: NSF
+*Period of Performance/Total Budget*: 5/1/2020 - 4/30/2025, $395,000
+*Commitment (months/year)*: 0.5 in years 1 and 2, 3 in years 3, 4, and 5
